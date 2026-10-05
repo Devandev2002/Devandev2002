@@ -1,45 +1,70 @@
-<div align="center">
+## 👋 Hi there, I'm Devanarayanan Pramod!
 
-# Devanarayanan Pramod
+**Finance Operations · Financial Reporting · Controls**
 
-### Finance Operations · Financial Reporting · Controls
+I'm an **International Business Management graduate** focused on finance. Based in **Berlin**, I bring experience from **Germany and the UAE**, connecting accurate financial reporting with practical business decisions.
 
-**M.Sc. International Business Management | Berlin, Germany**
-
-Turning financial and operational data into clear reporting and better business decisions.
-
-[LinkedIn](https://linkedin.com/in/devanarayanan-pramod-0b08a6264) · [Portfolio](https://devpramodportfolio.lovable.app) · [Email](mailto:devanarayanan.devan@outlook.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/devanarayanan-pramod-0b08a6264)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge)](https://devpramodportfolio.lovable.app)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-0891B2?style=for-the-badge)](mailto:devanarayanan.devan@outlook.com)
 
 ---
 
-## About me
+### 📊 When I analyse, I rely on
 
-I'm a finance and operations professional with an M.Sc. in International Business Management and experience in Germany and the UAE. My work connects financial reporting, reconciliations and process improvement with an international business perspective.
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square)
+![Financial Modelling](https://img.shields.io/badge/Financial%20Modelling-2563EB?style=flat-square)
+![Reporting Dashboards](https://img.shields.io/badge/Reporting%20Dashboards-7C3AED?style=flat-square)
 
-I have hands-on experience with purchase orders, vendor setup, company-card reconciliations, payment approvals and cash planning. I enjoy investigating discrepancies, improving reporting workflows and helping teams make sense of financial information.
+![Reconciliations](https://img.shields.io/badge/Reconciliations-0891B2?style=flat-square)
+![Cost & Variance Analysis](https://img.shields.io/badge/Cost%20%26%20Variance%20Analysis-D97706?style=flat-square)
+![Cash Planning](https://img.shields.io/badge/Cash%20Planning-059669?style=flat-square)
+![Purchase to Pay](https://img.shields.io/badge/Purchase%20to%20Pay-4F46E5?style=flat-square)
+![Internal Audit Support](https://img.shields.io/badge/Internal%20Audit%20Support-BE185D?style=flat-square)
+![Financial Controls](https://img.shields.io/badge/Financial%20Controls-475569?style=flat-square)
 
-My career focus is finance operations, financial analysis, reporting and controls.
+**Systems exposure:** SAP S/4HANA · DATEV  
+**Currently developing:** SAP S/4HANA Financial Accounting — certification in progress.
 
-## Experience in numbers
+### 🎯 My focus
 
-| Reporting efficiency | Access to financial information |
-| :--- | :--- |
-| **15% improvement in financial reporting cycle times** | **20% improvement in management access to financial information** |
-| Built Excel and Tableau models across finance and logistics at Metamorph GmbH. | Streamlined monthly reporting workflows at JWS Shipping LLC. |
+- **Reliable reporting:** Financial data validation, management dashboards and month-end reporting support.
+- **Stronger controls:** Reconciliations, discrepancy investigation and internal audit support.
+- **Better processes:** Purchase-to-pay operations, workflow mapping and cross-functional coordination.
 
-## Finance & analytical toolkit
+### 📈 My professional impact
 
-| Area | Experience |
-| :--- | :--- |
-| **Finance operations** | Purchase-to-pay activities, purchase orders, vendor setup, company-card reconciliations, payment approvals and cash planning |
-| **Reporting & analysis** | Financial and month-end reporting support, cost and variance analysis, financial data modelling and management dashboards |
-| **Controls & accuracy** | Financial data validation, discrepancy investigation, internal audit support and workflow mapping |
-| **Data & visualisation** | Advanced Microsoft Excel, Google Sheets, Tableau and PowerPoint |
-| **ERP & systems** | Exposure to SAP S/4HANA and DATEV; ERP and system implementation fundamentals |
+<table>
+<tr>
+<td width="50%" align="center"><h2>15%</h2><b>Improvement in reporting cycle times</b><br><br>Excel &amp; Tableau models across finance and logistics<br><sub>Metamorph GmbH · Berlin</sub></td>
+<td width="50%" align="center"><h2>20%</h2><b>Improvement in management access to financial information</b><br><br>Streamlined monthly reporting workflows<br><sub>JWS Shipping LLC · Dubai</sub></td>
+</tr>
+</table>
 
-## Professional experience
+### 📚 Selected academic work
+
+- **ESG Disclosure and Financial Performance** — Master's thesis applying quantitative models to examine ESG risk-management metrics and financial performance.
+- **Finance Process & Technology** — Capstone exploring finance process design, business requirements and system implementation.
+- **Customer and Employee Satisfaction in Logistics** — Bachelor's thesis translating operational research into business recommendations.
+
+[Explore my professional portfolio →](https://devpramodportfolio.lovable.app)
+
+### 🎓 My background
+
+**M.Sc. International Business Management**  
+University of Europe for Applied Sciences, Berlin · 2024–2026
+
+**Bachelor of Business Administration**  
+SRM Institute of Science and Technology, India · 2021–2023
+
+🌍 **English C2 · German B1/B2**  
+🤝 **Co-Lead & Organizer, Malhar Musical Group** — community initiatives and international events.
+
+<details>
+<summary><b>💼 View my professional experience</b></summary>
 
 ### Metamorph GmbH · Berlin, Germany
 **Logistics & Reporting Assistant | September 2024 – Present**
@@ -57,55 +82,22 @@ My career focus is finance operations, financial analysis, reporting and control
 - Evaluated financial data and internal risk metrics to support audits, compliance and reliable reporting.
 - Worked with Finance, HR and senior management to resolve data inconsistencies and prepare financial insights.
 
-## Selected academic work
+</details>
 
-### ESG Disclosure and Financial Performance
-**Master's thesis | October 2025 – February 2026**
+<details>
+<summary><b>🌱 Professional development</b></summary>
 
-Applied quantitative models to examine the relationship between ESG risk-management metrics and financial performance, presenting structured analytical findings.
-
-**Focus:** ESG · Financial performance · Quantitative analysis
-
-### Finance Process & Technology
-**Capstone project | April – June 2025**
-
-Investigated finance process design and system implementation, connecting business requirements with opportunities to improve workflows.
-
-**Focus:** Finance processes · Business requirements · System implementation
-
-### Customer and Employee Satisfaction in Logistics
-**Bachelor's thesis | January – May 2023**
-
-Analysed operational drivers in logistics and supply chains and translated research findings into practical recommendations for business improvement.
-
-**Focus:** Operational analysis · Logistics · Business improvement
-
-## Education
-
-**M.Sc. International Business Management**  
-University of Europe for Applied Sciences, Berlin | March 2024 – March 2026
-
-**Bachelor of Business Administration**  
-SRM Institute of Science and Technology, Tamil Nadu, India | August 2021 – April 2023
-
-## Professional development
-
-- **SAP S/4HANA Financial Accounting:** Certification in progress
+- SAP S/4HANA Financial Accounting — certification in progress
 - Ethical Management & Decision Making
 - People Management Skills — CIPD
 
-## Beyond the numbers
-
-As Co-Lead & Organizer of Malhar Musical Group, I have coordinated community initiatives and international events, bringing together people, planning and stakeholder communication to deliver shared projects.
-
-**Languages:** English (C2) · German (B1/B2)
+</details>
 
 ---
 
-<div align="center">
+### Let's connect
 
-**Let's connect about finance operations, reporting and financial analysis.**
+I'm interested in **finance operations, financial analysis, reporting and controls**.
 
-[LinkedIn](https://linkedin.com/in/devanarayanan-pramod-0b08a6264) · [Portfolio](https://devpramodportfolio.lovable.app) · [Email](mailto:devanarayanan.devan@outlook.com)
-
-</div>
+📩 **[devanarayanan.devan@outlook.com](mailto:devanarayanan.devan@outlook.com)**  
+[LinkedIn](https://linkedin.com/in/devanarayanan-pramod-0b08a6264) · [Portfolio](https://devpramodportfolio.lovable.app)
